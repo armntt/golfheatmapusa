@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "California",
+        "state": "CA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-124.4, 32.5], [-114.1, 32.5], [-114.1, 42.0], [-124.4, 42.0], [-124.4, 32.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Texas",
+        "state": "TX"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-106.6, 25.8], [-93.5, 25.8], [-93.5, 36.5], [-106.6, 36.5], [-106.6, 25.8]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florida",
+        "state": "FL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-87.6, 24.4], [-80.0, 24.4], [-80.0, 31.0], [-87.6, 31.0], [-87.6, 24.4]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York",
+        "state": "NY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-79.8, 40.5], [-71.9, 40.5], [-71.9, 45.0], [-79.8, 45.0], [-79.8, 40.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pennsylvania",
+        "state": "PA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-80.5, 39.7], [-74.7, 39.7], [-74.7, 42.3], [-80.5, 42.3], [-80.5, 39.7]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Illinois",
+        "state": "IL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-91.5, 36.9], [-87.0, 36.9], [-87.0, 42.5], [-91.5, 42.5], [-91.5, 36.9]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ohio",
+        "state": "OH"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-84.8, 38.4], [-80.5, 38.4], [-80.5, 42.3], [-84.8, 42.3], [-84.8, 38.4]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgia",
+        "state": "GA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-85.6, 30.3], [-80.8, 30.3], [-80.8, 35.0], [-85.6, 35.0], [-85.6, 30.3]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Carolina",
+        "state": "NC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-84.3, 33.8], [-75.4, 33.8], [-75.4, 36.6], [-84.3, 36.6], [-84.3, 33.8]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan",
+        "state": "MI"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-90.4, 41.7], [-82.1, 41.7], [-82.1, 48.3], [-90.4, 48.3], [-90.4, 41.7]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Jersey",
+        "state": "NJ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-75.6, 38.9], [-73.9, 38.9], [-73.9, 41.4], [-75.6, 41.4], [-75.6, 38.9]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virginia",
+        "state": "VA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-83.7, 36.5], [-75.2, 36.5], [-75.2, 39.5], [-83.7, 39.5], [-83.7, 36.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington",
+        "state": "WA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-124.8, 45.5], [-116.9, 45.5], [-116.9, 49.0], [-124.8, 49.0], [-124.8, 45.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona",
+        "state": "AZ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-114.8, 31.3], [-109.0, 31.3], [-109.0, 37.0], [-114.8, 37.0], [-114.8, 31.3]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massachusetts",
+        "state": "MA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73.5, 41.2], [-69.9, 41.2], [-69.9, 42.9], [-73.5, 42.9], [-73.5, 41.2]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tennessee",
+        "state": "TN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-90.3, 34.9], [-81.6, 34.9], [-81.6, 36.7], [-90.3, 36.7], [-90.3, 34.9]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indiana",
+        "state": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-88.1, 37.8], [-84.8, 37.8], [-84.8, 41.8], [-88.1, 41.8], [-88.1, 37.8]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Missouri",
+        "state": "MO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-95.8, 36.0], [-89.1, 36.0], [-89.1, 40.6], [-95.8, 40.6], [-95.8, 36.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maryland",
+        "state": "MD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-79.5, 37.9], [-75.0, 37.9], [-75.0, 39.7], [-79.5, 39.7], [-79.5, 37.9]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisconsin",
+        "state": "WI"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-92.9, 42.5], [-86.2, 42.5], [-86.2, 47.3], [-92.9, 47.3], [-92.9, 42.5]
+        ]]
+      }
+    }
+  ]
+}
